@@ -34,4 +34,5 @@ Techniques mapped across all major tactics: Reconnaissance, Initial Access, Exec
 - **Medium:** Centralize logging to a SIEM; roll out phishing-resistant MFA (FIDO2)
 
 ## Full Report
-The complete 87-page Capstone Red Team Engagement Report — including the pre-engagement scope, all weekly evidence, the full kill chain execution, post-engagement cleanup checklist, and the boardroom executive summary — is available in [`Capstone-Report/`](../Capstone-Report).
+The complete Capstone Red Team Engagement Report (86 pages — pre-engagement scope, weekly evidence, kill chain mapping, and boardroom-style executive summary) is available here: [`Capstone_Report_Muhammad_Ali_Imran.pdf`](../Capstone_Report_Muhammad_Ali_Imran.pdf)
+
