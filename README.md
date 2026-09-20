@@ -48,7 +48,7 @@ Findings were rated by severity (3 Critical, 8 High, 3 Medium) and mapped to the
 `Nmap` `Burp Suite` `SQLMap` `Metasploit` `Impacket` `PowerView` `BloodHound/SharpHound` `Mimikatz` `Responder` `Hashcat` `John the Ripper` `Sliver C2` `GoPhish` `msfvenom` `Subfinder/Amass` `FFUF/Gobuster` `WPScan`
 
 ## Full Report
-The complete Capstone Red Team Engagement Report (86 pages — pre-engagement scope, weekly evidence, kill chain mapping, and boardroom-style executive summary) is available here: [`Capstone-Report/`](./Capstone-Report)
+The complete Capstone Red Team Engagement Report (86 pages — pre-engagement scope, weekly evidence, kill chain mapping, and boardroom-style executive summary) is available here: [`Capstone_Report_Muhammad_Ali_Imran.pdf`](./Capstone_Report_Muhammad_Ali_Imran.pdf)
 
 ## About Me
 Cybersecurity student and aspiring penetration tester, currently working toward Security+ → eJPT → OSCP.
